@@ -1,0 +1,6 @@
+{
+  "name": "IELTS Writing Coach & AI Examiner",
+  "description": "Hệ thống phân tích, đánh giá, chấm điểm và đề xuất sửa lỗi bài viết IELTS Writing Task 1 & Task 2 chuẩn giám khảo quốc tế.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
